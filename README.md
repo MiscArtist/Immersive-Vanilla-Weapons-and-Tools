@@ -1,7 +1,7 @@
 
 # __Immersive Vanilla: Weapons and Tools (NeoForged)__
 
-![Logo image](/../main/assets/iv-wt-header.jpg)
+![Logo image](/../main/assets/images/iv-wt-alpha-2-header.jpg)
 
 > Current Version: Alpha 2.0
 
