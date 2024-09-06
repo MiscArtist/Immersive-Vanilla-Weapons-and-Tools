@@ -10,7 +10,7 @@
 A hint of realism.
 Little is all I'll need.
 
-### !!--Important Before Installation--!!
+### Important
 - __NeoForged is Required__
    - Forge support will release with the Beta release!
 - As mentioned above, pack will __NOT WORK__ on Forge and Fabric as for now.
@@ -24,6 +24,19 @@ Little is all I'll need.
 - Modrinth, Github
   - (curseforge next)
 
- # How to Install:
+ # Preview
+- Side by side comparision: Diamond sword
+   - ![diasbs]()
+- Side by side comparision: Netherite sword
+   - ![nethsbs]()
+- Diamond Sword held in hand
+   - ![diashih]()
+- Diamond Axe held in hand
+   - ![diaahih]()
+- In-game First person view
+   - ![igfpv]()
 
- -
+#  
+
+*made with love,*
+*~steve*
