@@ -1,6 +1,8 @@
 
 # __Immersive Vanilla: Weapons and Tools (NeoForged)__
 
+![Logo image](https://i.ibb.co/QFbXr5G/iv-wt-alpha-2-header.jpg)
+
 > Current Version: Alpha 2.0
 
 > Minecraft Version: 1.21
@@ -24,4 +26,4 @@ Little is all I'll need.
 
  # How to Install:
 
- 
+ -
