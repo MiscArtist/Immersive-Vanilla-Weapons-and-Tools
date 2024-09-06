@@ -26,15 +26,20 @@ Little is all I'll need.
 
  # Preview
 - Side by side comparision: Diamond sword
-   - ![diasbs]()
+  
+    ![diasbs](/../main/assets/images/screenshots/dia-s-side-by-side.jpg)
 - Side by side comparision: Netherite sword
-   - ![nethsbs]()
+  
+    ![nethsbs](/../main/assets/images/screenshots/neth-s-side-by-side.jpg)
 - Diamond Sword held in hand
-   - ![diashih]()
+  
+    ![diashih](/../main/assets/images/screenshots/dia-a-inhand.png)
 - Diamond Axe held in hand
-   - ![diaahih]()
+  
+    ![diaahih](/../main/assets/images/screenshots/dia-axe-inhand.jpg)
 - In-game First person view
-   - ![igfpv]()
+  
+    ![igfpv](/../main/assets/images/screenshots/dia-s-ingame.jpg)
 
 #  
 
